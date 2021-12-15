@@ -1,4 +1,4 @@
-# Shafiq-Twitter-Sentiment-Analysis--Project
+# Twitter-SentimentAnalysis
 Twitter sentiment analysis project inspired by Standford Project [Twitter Sentiment Classification using Distant Supervision](https://www-cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf) .
 
 # Instructions
